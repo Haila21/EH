@@ -24,11 +24,10 @@ public class movement : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    {
-     
+    {  
         anim.SetFloat("walkingHorizontal", Input.GetAxis("Horizontal"));
         anim.SetFloat("WalkingVertical", Input.GetAxis("Vertical"));
-        Speed = 3;
+        Speed = 5;
         Vector3 movement = new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical")).normalized;
         
         if (movement.magnitude>=0.1f){
