@@ -192,7 +192,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: -203655887218126122, guid: 2fb704e478bf8400197c145f9d1b791c, type: 3}
+  m_Motion: {fileID: -203655887218126122, guid: 47d8b84992516405f9978b45c2f66767, type: 3}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -231,7 +231,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Crouch walking
-  m_Speed: 0.5
+  m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: -309404365769630584}
@@ -244,7 +244,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: -203655887218126122, guid: 9d963d6d542ff4e5ebe4d52c6f470065, type: 3}
+  m_Motion: {fileID: -203655887218126122, guid: ff948eab84880445b9687b2e201f3402, type: 3}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
